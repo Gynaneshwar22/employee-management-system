@@ -93,8 +93,11 @@ Start the development server:
 
 npm start
 📸 Screenshots
+![image](https://github.com/user-attachments/assets/90055d1a-7aa9-47f6-a42a-45995a169b55)
 
 ![image](https://github.com/user-attachments/assets/b4d95895-4b52-487b-a4b4-ed52cf3cb6f0)
+
+![image](https://github.com/user-attachments/assets/ab86b4bf-0536-4ade-81cd-3c28a79a52d2)
 
 
 
